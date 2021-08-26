@@ -1,0 +1,1 @@
+![alt text](https://github.com/ShipilovS/Polynomial-regression/blob/master/info.png)
